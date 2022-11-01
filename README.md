@@ -4,7 +4,7 @@
 - 👀 I’m interested in Python, CPP, psychology, and maps.
 - 🌱 I’m currently learning more advances Python, CPP, Powershell, but want to learn as much as possible.
 - 💞️ I’m looking to collaborate on more Python related projects so I can get a better understanding.
-- 📫 How to reach me braydenchristensen6@gmail.com, @penguin_prayers, or add me on discord saying where you found me Hopper#3591
+- 📫 How to reach me braydenchristensen6@gmail.com, @penguin_prayers, or add me on discord saying where you found me Autoclitic#3591
 
 <!---
 Autoclitic/Autoclitic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
